@@ -1,7 +1,7 @@
-# Apollo 2
-> Server browser and RCON web application for Miscreated game servers.
+# React Boilerplate
+> React/React-Route/Redux/Flow
 
 ## Installation
 * Clone Repo
 * Install deps with `yarn`
-* Ready to deploy using traefik at servers.miscreatedgame.com
+* Created with create-react-app see docs in /docs
