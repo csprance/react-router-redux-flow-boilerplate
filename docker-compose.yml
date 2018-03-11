@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  nginx:
+    container_name: nginx
+    image: nginx-alpine:latest
+    volumes:
+      - ./build:/usrc/local/htdocs
